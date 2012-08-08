@@ -26,7 +26,6 @@
 
 - (void)testExample
 {
-    STAssertEquals(true, true);
 }
 
 @end
