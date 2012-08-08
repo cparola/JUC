@@ -38,21 +38,21 @@
 		DEFC6CB115D29E100018AFC0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DEFC6CB315D29E100018AFC0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DEFC6CB515D29E100018AFC0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DEFC6CB915D29E100018AFC0 /* JUC-Info.plist */ = {isa = PBXFileReference; path = "JUC-Info.plist"; sourceTree = "<group>"; };
+		DEFC6CB915D29E100018AFC0 /* JUC-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JUC-Info.plist"; sourceTree = "<group>"; };
 		DEFC6CBB15D29E100018AFC0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DEFC6CBD15D29E100018AFC0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DEFC6CBF15D29E100018AFC0 /* JUC-Prefix.pch */ = {isa = PBXFileReference; path = "JUC-Prefix.pch"; sourceTree = "<group>"; };
-		DEFC6CC015D29E100018AFC0 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		DEFC6CBF15D29E100018AFC0 /* JUC-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JUC-Prefix.pch"; sourceTree = "<group>"; };
+		DEFC6CC015D29E100018AFC0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DEFC6CC115D29E100018AFC0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		DEFC6CC415D29E100018AFC0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		DEFC6CC715D29E100018AFC0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		DEFC6CC915D29E100018AFC0 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		DEFC6CC915D29E100018AFC0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		DEFC6CCA15D29E100018AFC0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		DEFC6CD115D29E100018AFC0 /* JUCTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JUCTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEFC6CD215D29E100018AFC0 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		DEFC6CDA15D29E100018AFC0 /* JUCTests-Info.plist */ = {isa = PBXFileReference; path = "JUCTests-Info.plist"; sourceTree = "<group>"; };
+		DEFC6CDA15D29E100018AFC0 /* JUCTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JUCTests-Info.plist"; sourceTree = "<group>"; };
 		DEFC6CDC15D29E100018AFC0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DEFC6CDE15D29E100018AFC0 /* JUCTests.h */ = {isa = PBXFileReference; path = JUCTests.h; sourceTree = "<group>"; };
+		DEFC6CDE15D29E100018AFC0 /* JUCTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JUCTests.h; sourceTree = "<group>"; };
 		DEFC6CDF15D29E100018AFC0 /* JUCTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JUCTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
